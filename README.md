@@ -1,2 +1,2 @@
-# Power-BI-Completo---Do-B-sico-ao-Avan-ado
+# Power-BI-Completo-Do-Basico-ao-Avancado
 Power BI - Do básico  ao Avançado.
